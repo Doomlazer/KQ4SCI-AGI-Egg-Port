@@ -1,6 +1,6 @@
 # KQ4SCI AGI Egg Port
  
-### Three eggs from the AGI version of KQIV ported to the more common SCI version:
+### Three Easter eggs from the AGI version of KQIV ported to the more common SCI version:
 
 ### EGGS
 
