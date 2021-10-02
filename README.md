@@ -30,5 +30,5 @@ Required for Pirate - font.605, sound.599, script.701, script.702, sound.599, vi
 
 Required for Rap - font.605, pic.703, script.703, script.086, view.703, view.705, vocab.000
 
-Requred for Beam me - coming soon
+Requred for Beam me - font.605, pic.704, script.704, view.581, script.083, vocab.000
 
