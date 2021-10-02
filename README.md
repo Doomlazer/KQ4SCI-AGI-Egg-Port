@@ -4,7 +4,7 @@
 
 ### EGGS
 
-WIP
+WIP - expect minor issues
 
 Typing PIRATE at the copy protection prompt displays one of two random images, plays a few bars of drunken sailor and accuses the player of being a pirate before exiting the game. In the AGI version you needed to press ALT-D at the copy protection promt to enter the debugger, then type Pirate.  
 
