@@ -2,9 +2,9 @@
  
 ### Three Easter eggs from the AGI version of KQIV ported to the more common SCI version:
 
-### EGGS
-
 a WIP - incomplete and expect minor issues
+
+### EGGS
 
 Typing PIRATE at the copy protection displays one of two random images, plays a few bars of drunken sailor, and accuses the player of being a pirate before exiting the game. In the AGI version you needed to press ALT-D at the copy protection to enter the debugger, then type pirate to see the easter egg. Because it's not possible to trigger it in the same way with the SCI debugger, simply type 'pirate' instead of the answer from the manual.  
 
