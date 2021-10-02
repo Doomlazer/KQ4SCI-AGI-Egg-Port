@@ -14,7 +14,7 @@ Notice: When using this patch the first visit to the cell has SCI graphics. Norm
 
 <code>You wouldn't really want to visit your old cell, would you?</code>
 
-This patch allows you to OPEN DOOR from the hallway and enter an AGI version of the cell with slightly differnt text messages. It copies Rosella's brakedancing animations cel for cel from the AGI CGA graphics. Though, don't expect 100% accuracy here. 
+This patch allows you to OPEN DOOR from the hallway and enter an AGI version of the cell with slightly differnt said spec messages from the AGI verison. It copies Rosella's brakedancing animations cel for cel from the CGA graphics. Though, don't expect 100% accuracy here. 
 
 Beam me - coming soon
 
