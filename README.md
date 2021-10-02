@@ -16,7 +16,7 @@ This patch allows you to OPEN DOOR from the hallway and enter an AGI version of 
 
 Beam me - coming soon
 
-Special thanks to Kawa for the font & sq1window fix, and to the extremely knoledgeable sciprogramming.com community. Developed using SCICompanion.com and other tools. 
+Special thanks to Kawa for the PxPlus CGA font & the sq1window solution, EricOakford for the SCI Decompile Archive, as well as everyone else in the extremely knoledgeable sciprogramming.com community. Developed using SCICompanion.com and other tools. 
 
 ## INSTALLATION
 
