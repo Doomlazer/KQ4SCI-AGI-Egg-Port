@@ -1,7 +1,5 @@
 # KQ4SCI AGI Egg Port
  
-## Three Easter eggs from the AGI version of KQIV ported to the more common SCI version:
-
 WIP Feature complete - testing then polish
 
 ## EGGS
