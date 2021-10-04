@@ -6,7 +6,9 @@ WIP feature complete - testing, then polish
 
 ### PIRATE
 
-Typing PIRATE at the copy protection displays one of two random images, plays a few bars of drunken sailor, and accuses the player of being a pirate before exiting the game. In the AGI version you need to press ALT-D at the copy protection to enter the debugger, press Enter twice, then type pirate to see the easter egg. Because it's not possible to trigger it in the same way with the SCI debugger, simply type 'pirate' at the copy protection prompt.  
+Typing PIRATE at the copy protection displays one of two random images, plays a few bars of drunken sailor, and accuses the player of being a pirate before exiting the game. 
+
+In the AGI version you need to press ALT-D at the copy protection to enter the debugger, press Enter twice, then type pirate to see the easter egg. Because this is not possible with the SCI debugger, simply type 'pirate' at the copy protection prompt.  
 
 ### RAP KQ
 
