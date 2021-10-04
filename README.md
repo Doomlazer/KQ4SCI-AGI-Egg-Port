@@ -1,13 +1,15 @@
 # KQ4SCI AGI Egg Port
  
-WIP Feature complete - testing then polish
+WIP feature complete - testing, then polish
 
 ## EGGS
 
 ### PIRATE
-Pirate Typing PIRATE at the copy protection displays one of two random images, plays a few bars of drunken sailor, and accuses the player of being a pirate before exiting the game. In the AGI version you need to press ALT-D at the copy protection to enter the debugger, then type pirate to see the easter egg. Because it's not possible to trigger it in the same way with the SCI debugger, simply type 'pirate' instead of the answer from the manual.  
+
+Typing PIRATE at the copy protection displays one of two random images, plays a few bars of drunken sailor, and accuses the player of being a pirate before exiting the game. In the AGI version you need to press ALT-D at the copy protection to enter the debugger, press Enter twice, then type pirate to see the easter egg. Because it's not possible to trigger it in the same way with the SCI debugger, simply type 'pirate' at the copy protection prompt.  
 
 ### RAP KQ
+
 During the end game sequence, return to Lolotte's torture cell and type RAP KQ to see Rosella brakedancing to complaints by the developers about 'berta. 
 
 Notice: When using this patch the first visit to the cell has SCI graphics. Normally, during the SCI endgame, when opening the door you get the following message: 
