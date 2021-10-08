@@ -24,7 +24,7 @@ This patch allows you to OPEN DOOR from the hallway and enter an AGI version of 
 
 From the hallway outside Lolotte's cell type BEAM ME. Rosella is teleported to a room with... you guessed it, devs! The SCI Rosella beam out anmiation is a rough draft and will be updated.
 
-Special thanks to Kawa for the PxPlus CGA font & the sq1window solution, EricOakford for the SCI Decompile Archive, Chris Benshoof for squashing an annoying bug, as well as everyone else in the extremely knowledgeable SCIProgramming community. Developed using SCICompanion.com and other tools. 
+Special thanks to Kawa for the PxPlus CGA font & sq1Window solution, EricOakford for the SCI Decompile Archive, Chris Benshoof for squashing an annoying bug, as well as everyone else in the extremely knowledgeable SCIProgramming community. Developed using SCICompanion.com and other tools. 
 
 ## INSTALLATION
 
