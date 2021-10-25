@@ -2,6 +2,18 @@
  
 WIP feature complete - testing, then polish
 
+## INSTALLATION
+
+Copy all of the patch files into your KQ4 game folder and start under DOSBox or SCUMMVM. This file and the SRC folder are not required. To uninstall remove the patch files from your game folder.
+
+### EGG PATCH FILES
+
+Required for Pirate - font.605, sound.599, script.701, script.702, sound.599, view.582, vocab.000
+
+Required for Rap - font.605, pic.703, script.703, script.086, text.703, view.703, view.705, vocab.000
+
+Requred for Beam me - font.605, pic.704, script.704, script.083, text.704, view.581, vocab.000
+
 ## EGGS
 
 ### PIRATE
@@ -25,16 +37,3 @@ This patch allows you to OPEN DOOR from the hallway and enter an AGI version of 
 From the hallway outside Lolotte's cell type BEAM ME. Rosella is teleported to a room with... you guessed it, devs! The SCI Rosella beam out anmiation is a rough draft and will be updated.
 
 Special thanks to Kawa for the PxPlus CGA font & sq1Window solution, EricOakford for the SCI Decompile Archive, Chris Benshoof for squashing an annoying bug, as well as everyone in the extremely knowledgeable SCIProgramming community. Developed using SCICompanion.com and other tools. 
-
-## INSTALLATION
-
-Copy all of the patch files into your KQ4 game folder and start under DOSBox or SCUMMVM. This file and the SRC folder are not required. Removed the files from your game folder to uninstall.
-
-### EGG PATCH FILES
-
-Required for Pirate - font.605, sound.599, script.701, script.702, sound.599, view.582, vocab.000
-
-Required for Rap - font.605, pic.703, script.703, script.086, text.703, view.703, view.705, vocab.000
-
-Requred for Beam me - font.605, pic.704, script.704, script.083, text.704, view.581, vocab.000
-
