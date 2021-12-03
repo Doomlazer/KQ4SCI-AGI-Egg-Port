@@ -8,7 +8,7 @@ Copy all of the patch files into your KQ4 game folder and start under DOSBox or 
 
 ### EGG PATCH FILES
 
-Required for Pirate - font.605, sound.599, script.701, script.702, sound.599, view.582, vocab.000
+Required for Pirate - font.605, script.701, script.702, sound.599, view.582, vocab.000
 
 Required for Rap - font.605, pic.703, script.703, script.086, text.703, view.703, view.705, vocab.000
 
